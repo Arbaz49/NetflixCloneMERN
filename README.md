@@ -12,12 +12,12 @@ A Netflix clone MERN app is a web application that emulates the basic functional
 ![Login Page](https://res.cloudinary.com/duktgzyxw/image/upload/v1680247436/ProjectsImages/netflixCloneHome_pbytor.png)
 Login page of the website.
 
-![dashboard page](https://res.cloudinary.com/duktgzyxw/image/upload/v1680247669/ProjectsImages/netDahsboard_r9sczg.png)
+![dashboard page](https://res.cloudinary.com/duktgzyxw/image/upload/v1680251100/ProjectsImages/afterlogin_bhym3u.png)
 After Login page of the website
 
 
 ![crud page](https://res.cloudinary.com/duktgzyxw/image/upload/v1680250971/netfavorite_b2qooe.png)
-Implemented CRUD operation Functionality
+favorite
 
 
 

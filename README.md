@@ -4,7 +4,7 @@
 A Netflix clone MERN app is a web application that emulates the basic functionalities of the popular streaming service, Netflix. It is built using the MERN (MongoDB, Express, React, Node.js) stack, which allows for the creation of a full-stack application.
 
 ## Deployed Link
-<a href="https://netflix-clone-arbaz.vercel.app/">Deployed Link</a>
+<a href="https://netflixclone-arbaz49.onrender.com/">Deployed Link</a>
 
 
 ## Screenshots
